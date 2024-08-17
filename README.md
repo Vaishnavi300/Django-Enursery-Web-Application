@@ -1,1 +1,1 @@
-# Django-Enursery-Web-Application
+# VATS E-Nursery Web Application
